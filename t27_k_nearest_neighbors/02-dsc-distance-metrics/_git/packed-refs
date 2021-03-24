@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+513e08074bf8b5a32a59df76ec2a693b0d64425b refs/remotes/origin/curriculum
+b4ec52ab9836ea3b7ef7482ffda6681dc4860009 refs/remotes/origin/master
+ef355fa53c5578d3d4ce2d0dc33ec566c1218275 refs/remotes/origin/wip-vishal-fix-minkowski
